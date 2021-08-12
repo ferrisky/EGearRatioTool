@@ -13,5 +13,5 @@ The tool to compute the E-Gear ratio for Servo
 1. Input the PUU/mm
 2. Input the redution ratio. E.g. 7 revolutions on motor results in 1 resolution on load shaft, input 1/7 here.
 3. Input the pitch of transimission screw.
-4. Input the encoder resolution, PLS/motor revolution.
+4. Input the encoder resolution, PLS/motor revolution. E.g. 131072 PLS/rev for mitsubishi JE C Servo.
 5. Input the max RPM for the servo motor. This is used to compute the ref. max moving distance in 1s servo operation.
