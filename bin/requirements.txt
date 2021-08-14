@@ -1,0 +1,1 @@
+1. you have to install .net framework 4 or higher to get this exe file work.
